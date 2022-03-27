@@ -13,7 +13,9 @@
     "paths": {
       "@/*": ["*"],
       "@/test/*": ["../tests/*"]
-    }
+    },
+    "strict": true
+
   },
   "include": ["src"]
 }
