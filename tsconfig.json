@@ -13,13 +13,9 @@
     "paths": {
       "@/*": ["*"],
       "@/test/*": ["../tests/*"]
-<<<<<<< HEAD
     },
     "strict": true
 
-=======
-    }
->>>>>>> d551ac67ea301eefe96a7206df8c377ea99145b1
   },
   "include": ["src", "tests"]
 }
